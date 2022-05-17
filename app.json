@@ -2,7 +2,7 @@
   "name": "Efsane Music",
   "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by Mehmetbaba55.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Mehmetbaba55/EfsaneMusic",
+  "repository": "https://github.com/kostok20/EfsaneMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -10,30 +10,30 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Bir bot belirteci @botfather ile alınız",
+      "description": "5346119355:AAEXrd2U4O6qmtp5FoSB7kFRJrdeDzLhNaI",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Müzik Oynatıcı Bot Adınız.",
+      "description": "ᏴႮᏀՏ ᏴႮΝΝᎽ MUSİC",
       "required": false,
       "value": ""
     },
     "BOT_USARNAME": {
-      "description": "Müzik Oynatıcı Bot Kullanıcı İsmi @ olmadan yazınız.",
+      "description": "BugsBunyMusic_bot",
       "required": true,
       "value": ""
      
     },
     "API_ID": {
-      "description": "my.telegram'dan uygulama kimliği.org/apps",
+      "description": "14240350",
       "required": true
     },
     "API_HASH": {
-      "description": "My.telegram'dan uygulama apı-hash.org/apps",
+      "description": "a72206c9a94d1c5f1f3505cfd5d33153",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "Her yerde yönetici olarak sayılan kullanıcı kimliklerinin listesi (Müzik hesabınının id'si).",
+      "description": "5273282306",
       "required": true
     },
     "DURATION_LIMIT": {
