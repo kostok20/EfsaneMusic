@@ -19,7 +19,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 Asistan", url="https://te.me/BugsBunyAsistan"
+                        "🔊 Asistan", url="https://t.me/BugsBunyAsistan"
                     ),
                     InlineKeyboardButton(
                         "💬 Sohbet", url="https://t.me/BugsBunyMusic"
